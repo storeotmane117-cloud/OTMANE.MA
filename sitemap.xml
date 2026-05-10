@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- الصفحة الرئيسية -->
+  <url>
+    <loc>https://otmane.de/</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- صفحة المتجر / المنتجات -->
+  <url>
+    <loc>https://otmane.de/#shop</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- صفحة حول -->
+  <url>
+    <loc>https://otmane.de/#about</loc>
+    <lastmod>2026-05-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+</urlset>
